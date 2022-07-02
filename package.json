@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnyRamonSSousa/JohnyRamonSSousa.06-Node.js.git"
+  },
+  "keywords": [
+    "node.js",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp"
+  ],
+  "author": "Johny Ramon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnyRamonSSousa/JohnyRamonSSousa.06-Node.js/issues"
+  },
+  "homepage": "https://github.com/JohnyRamonSSousa/JohnyRamonSSousa.06-Node.js#readme",
+  "description": ""
+}
